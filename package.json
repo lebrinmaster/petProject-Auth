@@ -1,0 +1,22 @@
+{
+  "name": "petproject-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebrinmaster/petProject-Auth.git"
+  },
+  "author": "Aliaksei Bryniou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebrinmaster/petProject-Auth/issues"
+  },
+  "homepage": "https://github.com/lebrinmaster/petProject-Auth#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
